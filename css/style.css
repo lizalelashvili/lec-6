@@ -32,8 +32,73 @@ a{
 
 
 
-
 /* footer section */
+footer{
+    background-color: #0A22F4;
+}
+
+footer h1{
+    color: #FFFFFF;
+    font-size: 32px;
+    line-height: 39px;
+    font-family: 'HelveticaNeuebold';
+    width: 162px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foot p{
+    float: right;
+    font-size: 13px;
+    line-height: 19px;
+    color: #FFFFFF;
+    font-family: 'HelveticaNeuebold';
+    background-color: #0A22F4;
+    
+}
+
+
+.fcontact p{
+    font-size: 16px;
+    color: #FFFFFF;
+    line-height: 26px;
+    font-family: 'HelveticaNeue';
+    width: 463px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+footer iframe{
+    border-radius: 15px;
+    height: 197px;
+    display: block;
+    width: 463px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fcontact .fcontact-in p{
+    width: 463px;
+    height: 99px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
+.kontakti img{
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    width: 26px;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+}
+.kontakti p{
+    vertical-align: middle;
+    display: inline-block;
+}
+
 
 
 
